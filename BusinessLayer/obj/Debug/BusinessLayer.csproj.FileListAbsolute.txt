@@ -1,0 +1,6 @@
+D:\ASP.net_MVC\MvcAppli2\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\ASP.net_MVC\MvcAppli2\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\ASP.net_MVC\MvcAppli2\BusinessLayer\bin\Debug\EntityFramework.dll
+D:\ASP.net_MVC\MvcAppli2\BusinessLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\ASP.net_MVC\MvcAppli2\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\ASP.net_MVC\MvcAppli2\BusinessLayer\obj\Debug\BusinessLayer.pdb
